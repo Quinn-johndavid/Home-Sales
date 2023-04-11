@@ -37,4 +37,4 @@ Verify that the home_sales temporary table is uncached using PySpark.
 
 Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
-![OIP.jpg](picture/OIP.jpg)
+![sold.jpg](picture/sold.jpg)
